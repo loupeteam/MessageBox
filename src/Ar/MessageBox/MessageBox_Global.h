@@ -1,11 +1,11 @@
-/********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: MessageBox
+/*
  * File: MessageBox_Global.h
- * Author: Josh
- * Created: Aug 1, 2013
- *******************************************************************/
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of MessageBox, licensed under the MIT License.
+ * 
+ */
 
 #include <bur/plctypes.h>
 #include <string.h>

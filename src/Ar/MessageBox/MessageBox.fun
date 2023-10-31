@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: MessageBox
+(*
  * File: MessageBox.fun
- * Author: Josh
- * Created: August 01, 2013
- ********************************************************************
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of MessageBox, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Functions and function blocks of library MessageBox
  ********************************************************************)
 

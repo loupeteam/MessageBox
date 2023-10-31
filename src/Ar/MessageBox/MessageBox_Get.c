@@ -1,13 +1,11 @@
-/********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: Console
- * File: GetConsole.c
- * Author: Josh
- * Created: June 24, 2013
- ********************************************************************
- * Implementation of library Console
- ********************************************************************/
+/*
+ * File: MessageBox_Get.c
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of MessageBox, licensed under the MIT License.
+ * 
+ */
 
 #include <bur/plctypes.h>
 #ifdef __cplusplus

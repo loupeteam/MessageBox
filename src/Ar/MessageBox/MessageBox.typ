@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: MessageBox
+(*
  * File: MessageBox.typ
- * Author: Josh
- * Created: August 01, 2013
- ********************************************************************
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of MessageBox, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Data types of library MessageBox
  ********************************************************************)
 (*Popup HMI Control*)

@@ -1,13 +1,11 @@
- /********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: MessageBox
- * File: MessageBox_AddMsg.c
- * Author: Josh
- * Created: Aug 1, 2013
- ********************************************************************
- * Implementation of library MessageBox
- ********************************************************************/
+ /*
+ * File: MessageBox_MsgHandling.c
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of MessageBox, licensed under the MIT License.
+ * 
+ */
 
 #include <bur/plctypes.h>
 #ifdef __cplusplus
