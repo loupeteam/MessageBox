@@ -1,13 +1,11 @@
 (*
- * File: MessageBox.fun
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of MessageBox, licensed under the MIT License.
- * 
-  ********************************************************************
- * Functions and function blocks of library MessageBox
- ********************************************************************)
+* File: MessageBox.fun
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of MessageBox, licensed under the MIT License.
+* 
+*)
 
 FUNCTION MessageBox_Init : UDINT (*instantiates a message queue*)
 	VAR_INPUT
