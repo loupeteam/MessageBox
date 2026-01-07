@@ -20,6 +20,8 @@
 	};
 #endif
 
+MessageBox_typ *MessageBoxList[MESSAGEBOX_MAX + 1];
+UDINT CurrentMessageID;
 
 /* TODO: Add your comment here */
 unsigned long MessageBox_Init( unsigned char QueueSize)
